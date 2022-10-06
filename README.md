@@ -1,0 +1,1 @@
+<a href="https://console.platform.sh/projects/create-project/?template=https://raw.githubusercontent.com/chadwcarlson/psh-config/master/.template.yaml&utm_campaign=deploy_on_platform?utm_medium=button&utm_source=affiliate_links target="_blank" title="Deploy with Platform.sh"><img src="https://platform.sh/images/deploy/deploy-button-lg-blue.svg" width="175px"></a>
